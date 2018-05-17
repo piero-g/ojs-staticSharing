@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/blocks/staticSharing/locale/it_IT/locale.xml
+  *
+  * Copyright (c) 2013-2018 Simon Fraser University Library
+  * Copyright (c) 2003-2018 John Willinsky
+  * Copyright (c) 2018 Piero Grandesso for University of Bologna
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings for the it_IT (Italiano) locale.
+  *
+  -->
+
+<locale name="it_IT" full_name="Italiano">
+	<message key="plugins.block.staticSharing.displayName">Blocco icone statiche per la condivisione</message>
+	<message key="plugins.block.staticSharing.description">Questo plugin mostra nella barra laterale degli strumenti di lettura un blocco contenente le icone statiche per la condivisione dell'articolo.</message>
+	<message key="plugins.block.staticSharing.title">Icone condivisione</message>
+	<message key="plugins.block.staticSharing.staticSharingBlockTitle">Condividi l'articolo</message>
+</locale>

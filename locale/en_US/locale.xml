@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/blocks/staticSharing/locale/en_US/locale.xml
+  *
+  * Copyright (c) 2013-2018 Simon Fraser University Library
+  * Copyright (c) 2003-2018 John Willinsky
+  * Copyright (c) 2018 Piero Grandesso for University of Bologna
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings.
+  -->
+
+<locale name="en_US" full_name="U.S. English">
+	<message key="plugins.block.staticSharing.displayName">Static Sharing Icons Block</message>
+	<message key="plugins.block.staticSharing.description">This plugin displays a block containing static icons for social sharing in the reading tools sidebar.</message>
+	<message key="plugins.block.staticSharing.title">Static Sharing</message>
+	<message key="plugins.block.staticSharing.staticSharingBlockTitle">Share this article</message>
+</locale>
